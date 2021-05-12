@@ -135,10 +135,10 @@ __webpack_require__.r(__webpack_exports__);
 const environment = {
     production: false,
     api: {
-        url: 'http://localhost:3000'
+        url: 'http://cygnus-labs.com:3000'
     },
     socket: {
-        url: 'http://localhost:3001',
+        url: 'http://cygnus-labs.com:3001',
         config: {}
     }
 };
